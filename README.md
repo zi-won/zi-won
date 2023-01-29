@@ -4,7 +4,7 @@
   
 --- 
   
-  <h3>👩🏻‍💻Tech Stack👩🏻‍💻</h3>
+  <h3>🌱Tech stack🌱</h3>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
