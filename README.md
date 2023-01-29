@@ -1,12 +1,8 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=transparent&height=150&text=🍀Hello🍀&fontColor=F1F8E9)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=150&text=💖Hello💖&fontColor=F1F8E9)
   
 --- 
-  
-<img src="https://i.pinimg.com/564x/bd/49/f7/bd49f70bc12ab3742a13d6dbba16aadb.jpg" width="50%" height="40%">
-  
----
   
   <h3>👩🏻‍💻Tech Stack👩🏻‍💻</h3>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
