@@ -1,5 +1,9 @@
-<div align="center"> 
+<div align="center">
+            <br>
             <h1>HELLO, I'M JIWON 👋🏻</h1>
+                <img src="https://i.pinimg.com/564x/62/15/ff/6215ff400f620ea0cb61573932f2b9df.jpg" style="width:280px; height:275px; border-radius: 30px;" / >
+         <br>
+            <br>
   <br>
   <br>
   <h2>🌱 My Stacks 🌱</h2>
