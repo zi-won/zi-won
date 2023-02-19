@@ -1,5 +1,6 @@
 <div align="center">
             <br>
+            <img src="https://mblogthumb-phinf.pstatic.net/MjAyMTA4MDRfMjk0/MDAxNjI4MDg2MDEwNTY4.TTh8QJAkzwBZZpKSw8OpIK83JQ8dBBI5qBu9uWvgrKUg.X2keaCQ5fJkyx05OOlVYwKPi3ynq0_oqHv-UFqLyGsQg.PNG.cha-cha97/%EC%B6%98%EC%8B%9D%EC%9D%B4%EF%BC%BF001.png?type=w800" style="width:270px; height:270px;" / > 
             <h1>HELLO, I'M JIWON 👋🏻</h1>
          <br>
        
