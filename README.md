@@ -38,8 +38,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" style="width:80px; height:80px;" / ></a>
   &nbsp
   &nbsp
-  <a href="https://velog.io/@ziwon_c">
-    <img src="https://velog.velcdn.com/images/hyeongjun/post/5fff0129-f29b-4dfa-b28b-f3af0e11ed4f/image.png" style="width:80px; height:80px;" / ></a>
   <br>
   <br>
   <br>
