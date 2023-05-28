@@ -28,9 +28,6 @@
   <br>
   <br>
   <h2>✨ SNS ✨</h2>
-  
-  <a href="https://www.instagram.com/zzi.one1/">
-    <img src="https://mblogthumb-phinf.pstatic.net/MjAxNzAzMTlfMjAx/MDAxNDg5ODY2OTMyNjc5.zJ3xk8TJipUMzwh0fTnwOFrdB73Rd3oPR096eZ_6BmMg.qXsZfm4two22b_t5MbCq9Dv5s_6Yhl9NQUROBkFIYIEg.PNG.sungsut/IG_Glyph_Fill-1.png?type=w2" style="width:80px; height:80px;" / >
   </a>
   &nbsp
   &nbsp
